@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Chef's Menu Manager",
+    "slug": "chefs-menu-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.example.chefsmenumanager"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.chefsmenumanager"
+    }
+  }
+}
